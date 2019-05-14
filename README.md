@@ -1,2 +1,2 @@
 # dubbo_demo
-Dubbo项目整合ZooKeeper
+SSM+Dubbo+ZooKeeper实现基本的增删改查
