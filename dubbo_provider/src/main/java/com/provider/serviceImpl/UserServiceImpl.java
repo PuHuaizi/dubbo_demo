@@ -72,6 +72,7 @@ public class UserServiceImpl implements UserService {
     public void deleteUser(Integer[] ids) {
         for (Integer id : ids) {
             userDao.deleteUserById(id);
+
         }
     }
 }
