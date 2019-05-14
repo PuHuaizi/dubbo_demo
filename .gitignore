@@ -13,3 +13,4 @@ gen
 /log.base_IS_UNDEFINED/
 /.idea/codeStyles/
 /dubbo_consumer/dubbo_consumer.iml
+/.idea/
