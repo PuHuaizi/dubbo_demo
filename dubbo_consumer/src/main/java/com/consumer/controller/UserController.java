@@ -22,6 +22,10 @@ public class UserController {
     }
 
     @RequestMapping(value = "/test")
+    @ResponseBody
+    /**
+     * 不使用前端模板，直接返回字符串
+     */
     public String test() {
         return userService.test();
     }

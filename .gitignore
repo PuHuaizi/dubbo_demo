@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/inspectionProfiles/
+.idea/workspace.xml
+dubbo_api/src/main/resources/
+dubbo_api/src/test/
+dubbo_api/target/
+dubbo_consumer/src/main/webapp/WEB-INF/static/
+dubbo_consumer/src/main/webapp/WEB-INF/web.xml
+dubbo_consumer/target/
+dubbo_provider/src/test/
+dubbo_provider/target/
+log.base_IS_UNDEFINED/
+/.idea/
