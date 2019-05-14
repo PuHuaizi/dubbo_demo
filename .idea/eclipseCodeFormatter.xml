@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="pathToConfigFileJava" value="D:/软件工具/IDEA安装包/eclipse-java-google-style.xml" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
